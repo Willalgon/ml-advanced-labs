@@ -27,7 +27,7 @@
 Aquí iré añadiendo la tabla de 8 prompts con fuentes.
 
 ## Notas Personales
-- Usé iPad para diagrama
+- Usé el iPad para diagrama
 - Fuentes verificadas para tabla (pendiente)
 
 ---
